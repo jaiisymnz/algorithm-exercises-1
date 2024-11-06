@@ -1,10 +1,13 @@
 function runningSum(arr) {
   //Start coding here
+<<<<<<< HEAD
   let acc = 0;
   for (a of arr) {
     acc += a;
   }
   return acc;
+=======
+>>>>>>> c33f16c144d7e1985708efa23a3dd0b8f9b05f0c
 }
 
 let result1 = runningSum([1, 2, 3, 4]);
